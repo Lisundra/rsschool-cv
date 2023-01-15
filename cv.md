@@ -1,5 +1,5 @@
 # Daria Sokolova-Galkina
-![Photo](/image.jpeg)
+![Photo](image.jpeg)
 ## Contact Info
 * E-mail: dariasokolovagalkina@gmail.com
 * Telegram: [lovenderdream](https://t.me/lovenderdream) 
