@@ -23,10 +23,17 @@ function multiply(a, b){
 }
 ```
 ## Experience
-While working in digital marketing, I used to design ads and create simple landing pages. I became interested in the layout process and I decided to learn how to create web pages more deeply and find out how it looks from the inside. So I started reading and watching videos from programming courses. 
+>While working in digital marketing, I used to design ads and create simple landing pages. I became interested in the layout process and I decided to learn how to create web pages more deeply and find out how it looks from the inside. So I started reading and watching videos from programming courses. 
 
-As a curious and creative person I love to learn new things every day and constantly upgrade my skills. 
+>As a curious and creative person I love to learn new things every day and constantly upgrade my skills. 
 At the moment I’m studying at RS School and looking forward to new challenges.
+
+- *Sep 2021 - Aug 2022* Digital Marketing Specialist (Freelance)
+
+- *Sep 2016 - Aug 2022* Language Tutor (Freelance)
+
+
+
 ## Education
 ***Bachelor of linguistics***
 ##### September 2016 – June 2020
