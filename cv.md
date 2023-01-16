@@ -41,6 +41,19 @@ Institute of Foreign Languages, Moscow City Teachers’ Training University (MGP
 
 **Program:** Theory and Practice of Cross-cultural Communication (English and
 German)
+## Languages
+Russian – *native*
+
+German – *intermediate*
+
+English – *advanced*
+
+[EF SET English Certificate 71/100 (C2 Proficient)](https://www.efset.org/cert/D3neLz) 
+Issued Jan 2023
+
+I had speaking practice working as a tutor with children. I usually try to maintain my level, by practicing with native speakers using language learning apps. 
+
+
 
 
 
