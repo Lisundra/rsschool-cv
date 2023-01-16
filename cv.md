@@ -22,3 +22,8 @@ function multiply(a, b){
   return a * b;
 }
 ```
+## Experience
+While working in digital marketing, I used to design ads and create simple landing pages. I became interested in the layout process and I decided to learn how to create web pages more deeply and find out how it looks from the inside. So I started reading and watching videos from programming courses. 
+
+As a curious and creative person I love to learn new things every day and constantly upgrade my skills. 
+At the moment I’m studying at RS School and looking forward to new challenges.
