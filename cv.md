@@ -27,3 +27,14 @@ While working in digital marketing, I used to design ads and create simple landi
 
 As a curious and creative person I love to learn new things every day and constantly upgrade my skills. 
 At the moment I’m studying at RS School and looking forward to new challenges.
+## Education
+***Bachelor of linguistics***
+##### September 2016 – June 2020
+Institute of Foreign Languages, Moscow City Teachers’ Training University (MGPU)
+
+**Program:** Theory and Practice of Cross-cultural Communication (English and
+German)
+
+
+
+
