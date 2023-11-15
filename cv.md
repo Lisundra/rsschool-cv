@@ -36,6 +36,27 @@ At the moment I’m studying at RS School and looking forward to new challenges.
 
 - *Sep 2016 - Aug 2022* Language Tutor (Freelance)
 
+## Education
+##### September 2021 – November 2021
+Completed a digital marketing course
 
+***Bachelor of linguistics***
+##### September 2016 – June 2020
+Institute of Foreign Languages, Moscow City Teachers’ Training University (MGPU)
+
+**Program:** Theory and Practice of Cross-cultural Communication (English and
+German)
+
+## Languages
+Russian – *native*
+
+German – *upper-intermediate*
+
+English – *advanced*
+
+[EF SET English Certificate 71/100 (C2 Proficient)](https://www.efset.org/cert/D3neLz) 
+Issued Jan 2023
+
+I had speaking practice working as a tutor with children. I usually try to maintain my level by practicing with native speakers using language learning apps. 
 
 
